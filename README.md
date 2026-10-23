@@ -1,7 +1,7 @@
 ## FELIPE DA SILVA DE PAULA
 - Cursando Ciências da Computação
 - Buscando experiências em estágios na minha área
-- Atualmente estou estudando e me aprofundando em banco de dados e html.
+- Atualmente estou estudando e me aprofundando em banco de dados, front e back and, python, lógica de programação.
 
 ## TECNOLOGIAS E FERRAMENTAS
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -21,7 +21,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 
 ## MEU ROADMAP
-- [x] Mapear minha carreira em 
+- [x] Mapear minha carreira em ciência da computação
 - [x] Criar um Readme de perfil no GitHub
 
   ## Projetos em destaque 
