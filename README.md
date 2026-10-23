@@ -25,7 +25,7 @@
 - [x] Criar um Readme de perfil no GitHub
 
   ## Projetos em destaque 
-| Em breve | Estou construindo um projeto baseado em `ÁREA PRETENDIDA` | `???`
+| Em breve | Estou construindo um projeto baseado em `Atuando no desenvolvimento de um assistente virtual em uma empresa de tecnologia, explorando soluções com inteligência artificial e automação.` | `Inovação`
 
 ## Como falar comigo?
 -[MEU LINKEDIN](www.linkedin.com/in/felipe-da-silva-954aa8344)
